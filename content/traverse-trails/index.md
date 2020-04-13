@@ -17,11 +17,11 @@ visualizations that are built into WWT. Expanding the **Earth** menu will show
 six children layers, including **Overlays**, the **Moon** and the **ISS**.
 Likewise for **Mars**, the only options are **Phobos and Deimos**.
 
-1. To create our own layer for Mars, we first need to ensure that the
-   WWT Excel Add-In is installed for your computer, which can be found
-   here: [http://www.layerscape.org/Home/ExcelAddInWelcome.](http://www.layerscape.org/Home/ExcelAddInWelcome)
-1. Curiosity traverse coordinates courtesy of Joe Knapp can be found at
-   [curiosityrover.com](http://curiosityrover.com/rovertrackfine.json).
+1. To create our own layer for Mars, we first need to ensure that the WWT
+   Excel Add-In is installed for your computer, which can be found here:
+   **FIXME UPDATE LINK**.
+1. Curiosity traverse coordinates courtesy of Joe Knapp used to be available
+   at `http://curiosityrover.com/rovertrackfine.json`. **FIXME NEW LINK?**
 1. Right-click and **Save As** to save the file `rovertrackfine.json`. Open
    the file with Microsoft Word and use **Replace** (Ctrl-H) to replace the
    following characters in the JSON file with nothing: `[`, `]`, `{`, `},`,

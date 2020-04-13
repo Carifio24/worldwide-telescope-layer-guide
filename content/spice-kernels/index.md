@@ -5,8 +5,8 @@ weight = 700
 
 SPICE kernels are not trivial in their ease of use in their raw format and,
 thankfully, NASA provides
-[WebGeocalc](https://wgc.jpl.nasa.gov:8443/webgeocalc/#NewCalculation), a
-web-based GUI to assist in processing the desired data:
+[WebGeocalc](https://wgc.jpl.nasa.gov:8443/webgeocalc/), a web-based GUI to
+assist in processing the desired data:
 
 ![](spice-gui-empty.png)
 

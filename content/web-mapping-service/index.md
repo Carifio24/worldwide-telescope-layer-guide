@@ -50,14 +50,8 @@ similar process would be used to add other mapping data for other planets.
 Here are some WMS sources to check out:
 
 - [NASA GSFC](http://svs.gsfc.nasa.gov/cgi-bin/wms)
-- [MBARI](http://odss.mbari.org/thredds/wms/ucsc/sst)
+- [MBARI](https://erddap.mbari.org/erddap/wms/)
 - [GIBS](http://map1.vis.earthdata.nasa.gov/twms-geo/twms.cgi)
 - [NEOWMS NASA SCI](http://neowms.sci.gsfc.nasa.gov/wms/wms)
-- [JPL NewMoon](http://onmoon.jpl.nasa.gov/wms.cgi)
-- [NASA OnMoon](http://onmoon.lmmp.nasa.gov/wms.cgi)
-- [NASA On Mars](http://OnMars.jpl.nasa.gov/wms.cgi)
-- [NASA WorldWind](http://data.worldwind.arc.nasa.gov/wms)
-- [Moon Modeling](http://onmoon.lmmp.nasa.gov/sites_a/wms.cgi)
-- [Moon Modeling 1](http://onmoon.lmmp.nasa.gov/sites/wms.cgi)
-- [NASA OnEarth WMS](http://onearth.jpl.nasa.gov/wms.cgi)
+- [NASA WorldWind](https://worldwind.arc.nasa.gov/)
 - [NASA Earth Observatory](http://neowms.sci.gsfc.nasa.gov/wms/wms)
