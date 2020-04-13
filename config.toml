@@ -1,0 +1,8 @@
+base_url = "//docs.worldwidetelescope.org/layer-guide/1/"
+title = "WWT Layer Guide"
+description = "Creating and manipulating WWT graphics \"layers\"."
+theme = "wwtguide"
+highlight_code = true
+
+[extra]
+github_base = "//github.com/WorldWideTelescope/worldwide-telescope-layer-guide"
