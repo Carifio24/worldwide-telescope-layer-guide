@@ -67,8 +67,8 @@ import them into WWT.
    the location of the 3D model (in OBJ or 3DS format). This will attach the
    model at the location of the reference frame. This way you can show
    spacecraft in the proper location and it will move properly as you advance
-   time. More information is available here:
-   [http://worldwidetelescope.org/Learn/Authoring#wwt3dmodels](/Learn/Authoring#wwt3dmodels)
+   time. More information is available in the
+   [3D Models](@/3d-models/index.md) section.
 8. If you want to find or see the model you can right-click on the reference
    frame and select “Track this frame”.
 
@@ -174,7 +174,7 @@ to represent data at scales from inches to parsecs.
    navigate to the location of the 3D model (in OBJ or 3DS format). This will
    attach the model at the location of the reference frame. This way you can
    show spacecraft in the proper location and it will move properly as you
-   advance time. More information is available here:
-   [http://worldwidetelescope.org/Learn/Authoring#wwt3dmodels](http://worldwidetelescope.org/Learn/Authoring#wwt3dmodels)
+   advance time. More information is available in the
+   [3D Models](@/3d-models/index.md) section.
 6. If you want to find or see the model you can right-click on the reference
    frame and select “Track this frame”.
