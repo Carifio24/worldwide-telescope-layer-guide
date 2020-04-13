@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/aasworldwidetelescope/WWT/_apis/build/status/WorldWideTelescope.worldwide-telescope-layer-guide?branchName=master)](https://dev.azure.com/aasworldwidetelescope/WWT/_build/latest?definitionId=14&branchName=master)
+
 # WWT Layer Guide: Source Code
 
 This repository contains the source code for the [WWT Layer Guide].
